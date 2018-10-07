@@ -22,3 +22,4 @@ excerpt_separator: "<!--more-->"
 # google_author: ""
 # google_site_verification: ""
 # bing_webmastertools_id: ""
+theme: jekyll-theme-cayman
