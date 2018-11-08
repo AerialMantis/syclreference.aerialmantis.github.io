@@ -4,9 +4,9 @@ title: `device` class
 permalink: /sycl/host/device
 ---
 
-| [SYCL][sycl] > [Host API][sycl-host] > [`cl::sycl::device`][sycl-host-device] |
+[SYCL][sycl] > [Host API][sycl-host] > [`cl::sycl::device`][sycl-host-device]
 
-# `cl::sycl::device`
+# cl::sycl::device
 
 ---
 
@@ -14,8 +14,8 @@ Defined in header <CL/sycl.hpp>
 
 ---
 
+***
 
-```cpp
 namespace cl {
 namespace sycl {
 
@@ -23,7 +23,6 @@ class device;
 
 }  // namespace sycl
 }  // namespace cl
-```
 
 ***
 
